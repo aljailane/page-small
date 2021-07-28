@@ -1,0 +1,26 @@
+.etar
+{
+    box-sizing: inherit; color: rgb(0, 0, 0); 
+    font-size: 15px; 
+    border-width: 3px; 
+    border-style: solid; 
+    margin-top: 20px; 
+    padding: 25px; 
+    border-radius: 25px; 
+    border-color: rgb(4, 170, 109) !important;
+}
+.h2
+{
+    box-sizing: inherit; 
+    font-size: 32px; 
+    margin-top: 10px; 
+    margin-bottom: 10px;
+    font-family: Tahoma;
+}
+.p
+{
+    box-sizing: inherit; 
+    margin-top: 1.2em; 
+    margin-bottom: 1.2em; 
+    font-size: 15px;
+}
